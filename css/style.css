@@ -31,6 +31,7 @@ h1, h2, h3 {
     font-family: "Nothing You Could Do";
     font-size: 5em;
     line-height: 1em;
+    color: white;
 }
 
 h3 {
@@ -42,7 +43,7 @@ h3 {
     display: block;
     overflow-y: hidden;
     height: 90px;
-    color: #fff;
+    color: white;
 }
 
 .line.bottom {
@@ -63,7 +64,7 @@ p {
 .slogan {
     font-size: 3em;
     font-family: "Abel", Arial, sans-serif;
-    color: #E43434;
+    color: white;
 }
 
 .slogan .fa {
@@ -96,15 +97,13 @@ p {
 }
 
 a {
-    color: #444;
+    color: white;
     text-decoration: none;
 }
 
 a:hover {
-    color: #4F62F4;
+    color: #E6E6E6;
 }
-
-/* OWL MASCOT */
 
 .owl {
     font-family: "Source Code Pro", Courier, monospace;
