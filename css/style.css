@@ -27,7 +27,7 @@ body {
 
 h1, h2, h3 {
     margin: 0;
-    padding: 0;
+    padding-top: 5%;
     font-family: "Nothing You Could Do";
     font-size: 5em;
     line-height: 1em;
